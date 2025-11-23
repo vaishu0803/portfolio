@@ -4,7 +4,7 @@ import "../CSS/Home.css"
 import '../index.css' 
 
 // 🖼️ Import Assets
-import photo from '../../public/photo.jpg'
+import photo from '../../public/profile.jpeg'
 import githubLogo from '../../public/github.png'
 import linkedinLogo from '../../public/linkedin.png'
 import gmailLogo from '../../public/gmail.png'
